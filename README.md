@@ -18,7 +18,7 @@ The analysis uses three CSV files from the [TidyTuesday GitHub repository](https
 3. stackoverflow_survey_single_response.csv
 
 ## Code 
-[data_prep.py]()
+[data_prep.py](https://github.com/abhikarora100492/StackOverflowSurvey/blob/main/data_prep.py)
 ## Dependencies
 Python packages:
 - pandas
